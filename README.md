@@ -1,4 +1,4 @@
-I built this project with the help of freecodecamp.org. The project was not fully built by myself. I got some assistances from freecodecamp.org
+I built this project with the help of freecodecamp.org. The project was not fully built by myself. I got some assistances from freecodecamp.org. I was already familiar with the concept of task management.
 
 Requirements on the server should be:
 
